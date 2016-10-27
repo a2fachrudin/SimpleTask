@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="text_title">Title</string>
+    <string name="text_url">URL</string>
+</resources>
